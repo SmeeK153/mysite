@@ -1,0 +1,4 @@
+1. Update the report coverage
+    
+    (From within the ~/workspace directory)
+    coverage report > polls/tests.coverage
